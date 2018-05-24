@@ -3,6 +3,7 @@
   <component name="ContentModelStore">
     <e p="C:\temp\JasperServer.ReportClient" t="IncludeFlat">
       <e p="JasperServer.ReportClient" t="IncludeRecursive">
+        <e p=".gitignore" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="Class1.cs" t="Include" />
         <e p="JasperServer.ReportClient.csproj" t="IncludeRecursive" />
