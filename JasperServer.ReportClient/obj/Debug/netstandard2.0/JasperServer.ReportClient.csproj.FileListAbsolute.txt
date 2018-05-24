@@ -1,0 +1,8 @@
+C:\temp\JasperServer.ReportClient\JasperServer.ReportClient\bin\Debug\netstandard2.0\JasperServer.ReportClient.deps.json
+C:\temp\JasperServer.ReportClient\JasperServer.ReportClient\bin\Debug\netstandard2.0\JasperServer.ReportClient.dll
+C:\temp\JasperServer.ReportClient\JasperServer.ReportClient\bin\Debug\netstandard2.0\JasperServer.ReportClient.pdb
+C:\temp\JasperServer.ReportClient\JasperServer.ReportClient\obj\Debug\netstandard2.0\JasperServer.ReportClient.csproj.CoreCompileInputs.cache
+C:\temp\JasperServer.ReportClient\JasperServer.ReportClient\obj\Debug\netstandard2.0\JasperServer.ReportClient.AssemblyInfoInputs.cache
+C:\temp\JasperServer.ReportClient\JasperServer.ReportClient\obj\Debug\netstandard2.0\JasperServer.ReportClient.AssemblyInfo.cs
+C:\temp\JasperServer.ReportClient\JasperServer.ReportClient\obj\Debug\netstandard2.0\JasperServer.ReportClient.dll
+C:\temp\JasperServer.ReportClient\JasperServer.ReportClient\obj\Debug\netstandard2.0\JasperServer.ReportClient.pdb
