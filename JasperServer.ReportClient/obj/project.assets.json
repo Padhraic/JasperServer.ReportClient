@@ -182,10 +182,13 @@
   },
   "project": {
     "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
     "restore": {
-      "projectUniqueName": "C:\\temp\\JasperServer.ReportClient\\JasperServer.ReportClient\\JasperServer.ReportClient.csproj",
-      "projectName": "JasperServer.ReportClient",
-      "projectPath": "C:\\temp\\JasperServer.ReportClient\\JasperServer.ReportClient\\JasperServer.ReportClient.csproj",
+      "projectUniqueName": "C:\\temp\\JasperServer.ReportClient\\JasperServer.ReportClient\\ReportClient.csproj",
+      "projectName": "ReportClient",
+      "projectPath": "C:\\temp\\JasperServer.ReportClient\\JasperServer.ReportClient\\ReportClient.csproj",
       "packagesPath": "C:\\Users\\pcogan\\.nuget\\packages\\",
       "outputPath": "C:\\temp\\JasperServer.ReportClient\\JasperServer.ReportClient\\obj\\",
       "projectStyle": "PackageReference",
