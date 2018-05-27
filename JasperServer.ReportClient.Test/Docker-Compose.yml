@@ -1,0 +1,20 @@
+version: "3"
+services:
+  db:
+    image: mysql:5.7
+    restart: always
+    environment:
+      - MYSQL_ROOT_PASSWORD=my-secret-pw
+    ports:
+      - 3306
+        
+  jasperserver:
+    image: monitoringartist/jasperserver-xxl:6.3
+    environment:
+      - JS_DB_TYPE=mysql
+      - JS_DB_HOST=db
+      - JS_DB_PORT=3306
+      - JS_DB_USER=root
+      - JS_DB_PASSWORD=my-secret-pw
+    ports:
+      - 8080:8080
