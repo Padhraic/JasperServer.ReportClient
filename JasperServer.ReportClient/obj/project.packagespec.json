@@ -1,9 +1,9 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\temp\\JasperServer.ReportClient\\JasperServer.ReportClient\\JasperServer.ReportClient.csproj",
-    "projectName": "JasperServer.ReportClient",
-    "projectPath": "C:\\temp\\JasperServer.ReportClient\\JasperServer.ReportClient\\JasperServer.ReportClient.csproj",
+    "projectUniqueName": "C:\\temp\\JasperServer.ReportClient\\JasperServer.ReportClient\\ReportClient.csproj",
+    "projectName": "ReportClient",
+    "projectPath": "C:\\temp\\JasperServer.ReportClient\\JasperServer.ReportClient\\ReportClient.csproj",
     "outputPath": "C:\\temp\\JasperServer.ReportClient\\JasperServer.ReportClient\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
@@ -29,7 +29,7 @@
         "NETStandard.Library": {
           "suppressParent": "All",
           "target": "Package",
-          "version": "[2.0.0, )",
+          "version": "[2.0.1, )",
           "autoReferenced": true
         }
       },
