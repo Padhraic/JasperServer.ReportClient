@@ -19,6 +19,7 @@
       </e>
       <e p="JasperServer.ReportClient.Test" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
+        <e p="Docker-Compose.yml" t="Include" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp2.0" t="Include">

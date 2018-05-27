@@ -73,5 +73,5 @@ tags
 !.vscode/launch.json
 !.vscode/extensions.json
 
-bin\
-obj\
+bin/
+obj/
