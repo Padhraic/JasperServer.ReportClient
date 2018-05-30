@@ -14,7 +14,7 @@ namespace JasperServer.ReportClient
 
         Task SaveToFileAsync(string report, string filename);
 
-        Task SaveToFileAsync(string report, Dictionary<string, string> parameters, string filename);
+        Task SaveToFileAsync(string report, string filename, Dictionary<string, string> parameters);
 
     }
 }
